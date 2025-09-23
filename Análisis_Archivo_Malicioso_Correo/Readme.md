@@ -9,7 +9,8 @@
    - Si algún motor lo marca como **malicioso**, el informe incluye:  
      - Nombre de los motores que lo detectaron  
      - Tipo de malware identificado  
-     - Categoría (ej. 'malicious')  
+     - Categoría (ej. 'malicious')
+     <img width="376" height="56" alt="image" src="https://github.com/user-attachments/assets/42daeed8-7cce-44bb-ab0c-98c764e33243" />
    - Si ningún motor lo detecta como malicioso, recibiremos el mensaje:  --> 'Ningún motor marcó el archivo como malicious'.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
