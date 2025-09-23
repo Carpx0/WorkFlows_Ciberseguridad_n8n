@@ -10,8 +10,11 @@
      - **Nombre de los motores** que lo detectaron  
      - **Tipo de malware** identificado  
      - **Categoría** (ej. 'malicious')
-    <img width="376" height="56" alt="image" src="https://github.com/user-attachments/assets/42daeed8-7cce-44bb-ab0c-98c764e33243" />
-   - **Si ningún motor lo detecta como malicioso**, recibiremos el mensaje:  --> 'Ningún motor marcó el archivo como malicious'.
+   <img width="376" height="56" alt="image" src="https://github.com/user-attachments/assets/42daeed8-7cce-44bb-ab0c-98c764e33243" />
+   
+   **-NOTA:** El **nodo 'Code'** contiene un **script en Python** que **organiza la información recibida de VirusTotal** para hacer el resumen que se envía por correo.
+
+    - **Si ningún motor lo detecta como malicioso**, recibiremos el mensaje:  --> 'Ningún motor marcó el archivo como malicious'.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
