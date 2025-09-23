@@ -1,4 +1,4 @@
-# Workflow: Análisis de Archivo con VirusTotal
+# Análisis de Archivo con VirusTotal
 
 -Este workflow **automatiza el análisis de archivos** recibidos por correo en Gmail:
 
