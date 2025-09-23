@@ -1,0 +1,19 @@
+# Workflow: Análisis de Archivo con VirusTotal
+
+-Este workflow **automatiza el análisis de archivos** recibidos por correo en Gmail:
+
+1. Toma el archivo adjunto del último correo recibido.  
+2. Lo envía a **VirusTotal** para su análisis.  
+3. Espera 20 segundos para obtener los resultados.  
+4. Envía un correo con un resumen del análisis:  
+   - Si algún motor lo marca como **malicioso**, el informe incluye:  
+     - Nombre de los motores que lo detectaron  
+     - Tipo de malware identificado  
+     - Categoría (ej. 'malicious')  
+   - Si ningún motor lo detecta como malicioso, recibiremos el mensaje:  --> 'Ningún motor marcó el archivo como malicious'.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Requisitos
+- Credenciales de VirusTotal (API key)
+- Cuenta de Gmail configurada en n8n
