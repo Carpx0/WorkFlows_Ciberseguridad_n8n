@@ -1,4 +1,4 @@
-# Plantillas_Ciberseguridad_n8n
+# WorkFlows_Ciberseguridad_n8n
 -Este repositorio está destinado a compartir **workflows de n8n** enfocados en:
 
 - **Respuesta ante incidentes de seguridad**  
